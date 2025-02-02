@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608434686 source:d:\igraphics-master\igraphics-master\dx ball 1905017\dx ball.cpp
+	"iGraphics.h"
+	<stdio.h>
+
